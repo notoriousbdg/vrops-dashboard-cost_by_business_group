@@ -1,7 +1,7 @@
 # Cost by vRealize Automation Managed VMs for vRealize Operations 7.5
 ---------
 
-View application costs per VM using vRealize Automation Managed VMs in [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html).
+View costs per VM based on vRealize Automation objects in [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html).
 
 ![Cost by Business Group](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-cost_by_business_group/master/Dashboard.png)
 
